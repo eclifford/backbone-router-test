@@ -1,0 +1,19 @@
+{
+  "name": "backbone-router-test",
+  "version": "0.0.0",
+  "authors": [
+    "Eric Clifford <ericgclifford@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "backbone": "~1.1.2",
+    "jquery": "~2.1.0"
+  }
+}
